@@ -1,0 +1,18 @@
+.navbg{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(234, 232, 232);
+}
+
+.align{
+    display: flex;
+    margin-top: 20px;
+}
+
+.name{
+    display: flex;
+}
+
+.color{
+    color: rgb(35, 134, 220);
+}
